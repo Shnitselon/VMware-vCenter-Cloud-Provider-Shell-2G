@@ -192,7 +192,7 @@ In online mode, the execution server automatically downloads and extracts the ap
 
 3. Select the appropriate deployment type.<br><br>Note that this shell's deployment types all end with "2G" to indicate that they belong to a 2nd Gen shell. For example: "vCenter VM From Template 2G".
 
-4. Sepecify a __Name__ and click __Create__.
+4. Specify a __Name__ and click __Create__.
 
 6. In the __General__ tab, select the appropriate domain categories.<br><br>A domain category is a service category that is used to expose the App to specific CloudShell domains. By default, the __Applications__ category is associated to the Global domain. You can optionally create additional service categories for other domains or add the desired domains to the __Applications__ category. Service categories are managed in the __Manage>Categories>Service Categories__ page.
 
